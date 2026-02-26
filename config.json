@@ -3,15 +3,15 @@
     "proxy": false,
     "nuke": {
         "channels_name": [
-            "spinozapy"
+            "spinozadev"
         ],
 
         "roles_name": [
-            "spinozapy"
+            "spinozadev"
         ],
 
         "messages_content": [
-            "https://github.com/spinozapy @everyone"
+            "https://github.com/spinozadev @everyone"
         ]
     }
 }
