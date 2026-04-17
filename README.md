@@ -27,3 +27,6 @@ DiscordNuker is a Python-based tool designed to swiftly disrupt a specified Disc
 - Use responsibly and adhere to ethical standards while interacting with Discord servers.
 
 Remember, use this tool responsibly and ethically. Any misuse or violation of Discord's terms of service is the responsibility of the user.
+
+
+# Note - This code is not mine but i fix this code With Too Much  Errors so now you can use this code for free 
